@@ -13,7 +13,12 @@
 *** Òàêòîâàÿ ÷àñòîòà ÿäðà: 120ÌÃö	
 ***
 *** Ïåðèîä ïåðåêëþ÷åíèÿ ñâåòîäèîäà íàñòðàèâàåòñÿ òàéìåðîì TIM2 
+<<<<<<< HEAD
 *** git test branch 
+=======
+*** git test branch
+*** git test branch and merge
+>>>>>>> origin/main
 *** 
 */
 
