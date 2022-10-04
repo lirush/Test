@@ -14,6 +14,7 @@
 ***
 *** Ïåðèîä ïåðåêëþ÷åíèÿ ñâåòîäèîäà íàñòðàèâàåòñÿ òàéìåðîì TIM2 
 *** git test branch
+*** git test branch and merge
 *** 
 */
 
