@@ -31,8 +31,6 @@ int main()
 	TIM2_Init(20);										//20ìñ ïåðåêëþ÷åíèå ñâåòîäèîäîâ
 	
 	Init_GPIO();
-
-	Init_GPIO();
 	
 	while(1)
 	{
