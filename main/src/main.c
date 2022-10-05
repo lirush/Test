@@ -13,7 +13,7 @@
 *** Òàêòîâàÿ ÷àñòîòà ÿäðà: 120ÌÃö	
 ***
 *** Ïåðèîä ïåðåêëþ÷åíèÿ ñâåòîäèîäà íàñòðàèâàåòñÿ òàéìåðîì TIM2 
-*** created new branch it call test_win_2
+*** created new branch it call test_win_3
 *** 
 */
 
